@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:bfgminer.xcodeproj">
+      location = "self:cgminer.xcodeproj">
    </FileRef>
 </Workspace>
