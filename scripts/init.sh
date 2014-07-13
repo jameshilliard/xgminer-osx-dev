@@ -4,4 +4,4 @@ git submodule update
 cd scripts
 ./make_debug.sh
 cd ..
-open bfgminer.xcodeproj
+open cgminer.xcodeproj
