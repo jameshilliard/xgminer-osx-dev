@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+cgminer<?xml version="1.0" encoding="UTF-8"?>
 <Scheme
    LastUpgradeVersion = "0500"
    version = "1.7">
@@ -15,9 +15,9 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "D2F053D3185E25710042153E"
-                     BuildableName = "bfgminer"
-                     BlueprintName = "bfgminer"
-                     ReferencedContainer = "container:bfgminer.xcodeproj">
+                     BuildableName = "cgminer"
+                     BlueprintName = "cgminer"
+                     ReferencedContainer = "container:cgminer.xcodeproj">
                   </BuildableReference>
                </EnvironmentBuildable>
             </ActionContent>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D2F053D3185E25710042153E"
-               BuildableName = "bfgminer"
-               BlueprintName = "bfgminer"
-               ReferencedContainer = "container:bfgminer.xcodeproj">
+               BuildableName = "cgminer"
+               BlueprintName = "cgminer"
+               ReferencedContainer = "container:cgminer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -51,9 +51,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D2F053D3185E25710042153E"
-            BuildableName = "bfgminer"
-            BlueprintName = "bfgminer"
-            ReferencedContainer = "container:bfgminer.xcodeproj">
+            BuildableName = "cgminer"
+            BlueprintName = "cgminer"
+            ReferencedContainer = "container:cgminer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -82,9 +82,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D2F053D3185E25710042153E"
-            BuildableName = "bfgminer"
-            BlueprintName = "bfgminer"
-            ReferencedContainer = "container:bfgminer.xcodeproj">
+            BuildableName = "cgminer"
+            BlueprintName = "cgminer"
+            ReferencedContainer = "container:cgminer.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <CommandLineArguments>
@@ -122,9 +122,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D2F053D3185E25710042153E"
-            BuildableName = "bfgminer"
-            BlueprintName = "bfgminer"
-            ReferencedContainer = "container:bfgminer.xcodeproj">
+            BuildableName = "cgminer"
+            BlueprintName = "cgminer"
+            ReferencedContainer = "container:cgminer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
