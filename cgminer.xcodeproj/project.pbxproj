@@ -108,7 +108,7 @@
 		D240ED2B1867DEDE0081ACCC /* spidevc.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = spidevc.c; path = source/spidevc.c; sourceTree = SOURCE_ROOT; };
 		D240ED2C1867DEDE0081ACCC /* tm_i2c.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = tm_i2c.c; path = source/tm_i2c.c; sourceTree = SOURCE_ROOT; };
 		D240ED2D1867DEDE0081ACCC /* util.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = util.c; path = source/util.c; sourceTree = SOURCE_ROOT; };
-		D240ED2E1867DEDE0081ACCC /* 70-bfgminer.rules.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = "70-bfgminer.rules.in"; path = "source/70-bfgminer.rules.in"; sourceTree = SOURCE_ROOT; };
+		D240ED2E1867DEDE0081ACCC /* 70-cgminer.rules.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = "70-cgminer.rules.in"; path = "source/70-cgminer.rules.in"; sourceTree = SOURCE_ROOT; };
 		D240ED311867DEDE0081ACCC /* AUTHORS */ = {isa = PBXFileReference; lastKnownFileType = text; name = AUTHORS; path = source/AUTHORS; sourceTree = SOURCE_ROOT; };
 		D240ED5C1867DEDE0081ACCC /* ChangeLog */ = {isa = PBXFileReference; lastKnownFileType = text; name = ChangeLog; path = source/ChangeLog; sourceTree = SOURCE_ROOT; };
 		D240ED5D1867DEDE0081ACCC /* config.h.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = config.h.in; path = source/config.h.in; sourceTree = SOURCE_ROOT; };
@@ -117,7 +117,7 @@
 		D240ED611867DEDE0081ACCC /* example.conf */ = {isa = PBXFileReference; lastKnownFileType = text; name = example.conf; path = source/example.conf; sourceTree = SOURCE_ROOT; };
 		D240ED621867DEDE0081ACCC /* HACKING */ = {isa = PBXFileReference; lastKnownFileType = text; name = HACKING; path = source/HACKING; sourceTree = SOURCE_ROOT; };
 		D240ED631867DEDE0081ACCC /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; name = LICENSE; path = source/LICENSE; sourceTree = SOURCE_ROOT; };
-		D240ED641867DEDE0081ACCC /* linux-usb-bfgminer */ = {isa = PBXFileReference; lastKnownFileType = text; name = "linux-usb-bfgminer"; path = "source/linux-usb-bfgminer"; sourceTree = SOURCE_ROOT; };
+		D240ED641867DEDE0081ACCC /* linux-usb-cgminer */ = {isa = PBXFileReference; lastKnownFileType = text; name = "linux-usb-cgminer"; path = "source/linux-usb-cgminer"; sourceTree = SOURCE_ROOT; };
 		D240ED651867DEDE0081ACCC /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; name = Makefile; path = source/Makefile; sourceTree = SOURCE_ROOT; };
 		D240ED661867DEDE0081ACCC /* Makefile.am */ = {isa = PBXFileReference; lastKnownFileType = text; name = Makefile.am; path = source/Makefile.am; sourceTree = SOURCE_ROOT; };
 		D240ED671867DEDE0081ACCC /* Makefile.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = Makefile.in; path = source/Makefile.in; sourceTree = SOURCE_ROOT; };
@@ -195,13 +195,13 @@
 		D240EDBA1867DEDE0081ACCC /* typesafe_cb.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = typesafe_cb.h; sourceTree = "<group>"; };
 		D240EDBC1867DEDE0081ACCC /* cl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = cl.h; sourceTree = "<group>"; };
 		D240EDBD1867DEDE0081ACCC /* cl_platform.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = cl_platform.h; sourceTree = "<group>"; };
-		D240EDBF1867DEDE0081ACCC /* bfgminer.docs */ = {isa = PBXFileReference; lastKnownFileType = text; path = bfgminer.docs; sourceTree = "<group>"; };
-		D240EDC01867DEDE0081ACCC /* bfgminer.install */ = {isa = PBXFileReference; lastKnownFileType = text; path = bfgminer.install; sourceTree = "<group>"; };
+		D240EDBF1867DEDE0081ACCC /* cgminer.docs */ = {isa = PBXFileReference; lastKnownFileType = text; path = cgminer.docs; sourceTree = "<group>"; };
+		D240EDC01867DEDE0081ACCC /* cgminer.install */ = {isa = PBXFileReference; lastKnownFileType = text; path = cgminer.install; sourceTree = "<group>"; };
 		D240EDC11867DEDE0081ACCC /* changelog */ = {isa = PBXFileReference; lastKnownFileType = text; path = changelog; sourceTree = "<group>"; };
 		D240EDC21867DEDE0081ACCC /* compat */ = {isa = PBXFileReference; lastKnownFileType = text; path = compat; sourceTree = "<group>"; };
 		D240EDC31867DEDE0081ACCC /* control */ = {isa = PBXFileReference; lastKnownFileType = text; path = control; sourceTree = "<group>"; };
 		D240EDC41867DEDE0081ACCC /* copyright */ = {isa = PBXFileReference; lastKnownFileType = text; path = copyright; sourceTree = "<group>"; };
-		D240EDC61867DEDE0081ACCC /* bfgminer-bitforce.diff */ = {isa = PBXFileReference; lastKnownFileType = text; path = "bfgminer-bitforce.diff"; sourceTree = "<group>"; };
+		D240EDC61867DEDE0081ACCC /* cgminer-bitforce.diff */ = {isa = PBXFileReference; lastKnownFileType = text; path = "cgminer-bitforce.diff"; sourceTree = "<group>"; };
 		D240EDC71867DEDE0081ACCC /* series */ = {isa = PBXFileReference; lastKnownFileType = text; path = series; sourceTree = "<group>"; };
 		D240EDC81867DEDE0081ACCC /* rules */ = {isa = PBXFileReference; lastKnownFileType = text; path = rules; sourceTree = "<group>"; };
 		D240EDCA1867DEDE0081ACCC /* format */ = {isa = PBXFileReference; lastKnownFileType = text; path = format; sourceTree = "<group>"; };
@@ -321,9 +321,9 @@
 		D240EE4C1867DEDF0081ACCC /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		D240EE4E1867DEDF0081ACCC /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		D240EE4F1867DEDF0081ACCC /* multibuild.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = multibuild.sh; sourceTree = "<group>"; };
-		D240EE521867DEDF0081ACCC /* bfgminer.changes */ = {isa = PBXFileReference; lastKnownFileType = text; path = bfgminer.changes; sourceTree = "<group>"; };
-		D240EE531867DEDF0081ACCC /* bfgminer.rpmlintrc */ = {isa = PBXFileReference; lastKnownFileType = text; path = bfgminer.rpmlintrc; sourceTree = "<group>"; };
-		D240EE541867DEDF0081ACCC /* bfgminer.spec */ = {isa = PBXFileReference; lastKnownFileType = text; path = bfgminer.spec; sourceTree = "<group>"; };
+		D240EE521867DEDF0081ACCC /* cgminer.changes */ = {isa = PBXFileReference; lastKnownFileType = text; path = cgminer.changes; sourceTree = "<group>"; };
+		D240EE531867DEDF0081ACCC /* cgminer.rpmlintrc */ = {isa = PBXFileReference; lastKnownFileType = text; path = cgminer.rpmlintrc; sourceTree = "<group>"; };
+		D240EE541867DEDF0081ACCC /* cgminer.spec */ = {isa = PBXFileReference; lastKnownFileType = text; path = cgminer.spec; sourceTree = "<group>"; };
 		D240EE551867DEDF0081ACCC /* Makefile.am.patch */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.am.patch; sourceTree = "<group>"; };
 		D240EE561867DEDF0081ACCC /* Makefile.in.patch */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.in.patch; sourceTree = "<group>"; };
 		D240EE581867DEDF0081ACCC /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
@@ -524,8 +524,8 @@
 		D240EDBE1867DEDE0081ACCC /* debian */ = {
 			isa = PBXGroup;
 			children = (
-				D240EDBF1867DEDE0081ACCC /* bfgminer.docs */,
-				D240EDC01867DEDE0081ACCC /* bfgminer.install */,
+				D240EDBF1867DEDE0081ACCC /* cgminer.docs */,
+				D240EDC01867DEDE0081ACCC /* cgminer.install */,
 				D240EDC11867DEDE0081ACCC /* changelog */,
 				D240EDC21867DEDE0081ACCC /* compat */,
 				D240EDC31867DEDE0081ACCC /* control */,
@@ -541,7 +541,7 @@
 		D240EDC51867DEDE0081ACCC /* patches */ = {
 			isa = PBXGroup;
 			children = (
-				D240EDC61867DEDE0081ACCC /* bfgminer-bitforce.diff */,
+				D240EDC61867DEDE0081ACCC /* cgminer-bitforce.diff */,
 				D240EDC71867DEDE0081ACCC /* series */,
 			);
 			path = patches;
@@ -720,19 +720,19 @@
 			isa = PBXGroup;
 			children = (
 				D240EE4C1867DEDF0081ACCC /* .gitignore */,
-				D240EE4D1867DEDF0081ACCC /* bfgminer */,
+				D240EE4D1867DEDF0081ACCC /* cgminer */,
 				D240EE4F1867DEDF0081ACCC /* multibuild.sh */,
 			);
 			name = openwrt;
 			path = source/openwrt;
 			sourceTree = SOURCE_ROOT;
 		};
-		D240EE4D1867DEDF0081ACCC /* bfgminer */ = {
+		D240EE4D1867DEDF0081ACCC /* cgminer */ = {
 			isa = PBXGroup;
 			children = (
 				D240EE4E1867DEDF0081ACCC /* Makefile */,
 			);
-			path = bfgminer;
+			path = cgminer;
 			sourceTree = "<group>";
 		};
 		D240EE501867DEDF0081ACCC /* packaging */ = {
@@ -747,9 +747,9 @@
 		D240EE511867DEDF0081ACCC /* suse */ = {
 			isa = PBXGroup;
 			children = (
-				D240EE521867DEDF0081ACCC /* bfgminer.changes */,
-				D240EE531867DEDF0081ACCC /* bfgminer.rpmlintrc */,
-				D240EE541867DEDF0081ACCC /* bfgminer.spec */,
+				D240EE521867DEDF0081ACCC /* cgminer.changes */,
+				D240EE531867DEDF0081ACCC /* cgminer.rpmlintrc */,
+				D240EE541867DEDF0081ACCC /* cgminer.spec */,
 				D240EE551867DEDF0081ACCC /* Makefile.am.patch */,
 				D240EE561867DEDF0081ACCC /* Makefile.in.patch */,
 			);
@@ -783,7 +783,7 @@
 			path = source/x86_64;
 			sourceTree = SOURCE_ROOT;
 		};
-		D290598C185E27E0001E1788 /* bfgminer */ = {
+		D290598C185E27E0001E1788 /* cgminer */ = {
 			isa = PBXGroup;
 			children = (
 				D240ED731867DEDE0081ACCC /* ADL */,
@@ -799,7 +799,7 @@
 				D240EE571867DEDF0081ACCC /* x86_32 */,
 				D240EE5D1867DEDF0081ACCC /* x86_64 */,
 				D240EE341867DEDF0081ACCC /* m4 */,
-				D240ED2E1867DEDE0081ACCC /* 70-bfgminer.rules.in */,
+				D240ED2E1867DEDE0081ACCC /* 70-cgminer.rules.in */,
 				D240ECF21867DEDE0081ACCC /* adl.c */,
 				D240ECCA1867DEDE0081ACCC /* adl.h */,
 				D240ECC91867DEDE0081ACCC /* adl_functions.h */,
@@ -887,7 +887,7 @@
 				D240ED181867DEDE0081ACCC /* libztex.c */,
 				D240ECE31867DEDE0081ACCC /* libztex.h */,
 				D240ED631867DEDE0081ACCC /* LICENSE */,
-				D240ED641867DEDE0081ACCC /* linux-usb-bfgminer */,
+				D240ED641867DEDE0081ACCC /* linux-usb-cgminer */,
 				D240ED191867DEDE0081ACCC /* logging.c */,
 				D240ECE41867DEDE0081ACCC /* logging.h */,
 				D240ED1A1867DEDE0081ACCC /* lowl-hid.c */,
@@ -947,14 +947,14 @@
 				D240ECF11867DEDE0081ACCC /* warn-on-use.h */,
 				D240EE6D1867DEDF0081ACCC /* windows-build.txt */,
 			);
-			name = bfgminer;
-			path = "../../GNU-Projects/bfgminer/source";
+			name = cgminer;
+			path = "../../GNU-Projects/cgminer/source";
 			sourceTree = "<group>";
 		};
 		D2F053BE185E1B040042153E = {
 			isa = PBXGroup;
 			children = (
-				D290598C185E27E0001E1788 /* bfgminer */,
+				D290598C185E27E0001E1788 /* cgminer */,
 				D2F053C8185E1B050042153E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -969,19 +969,19 @@
 /* End PBXGroup section */
 
 /* Begin PBXLegacyTarget section */
-		D2F053D3185E25710042153E /* bfgminer */ = {
+		D2F053D3185E25710042153E /* cgminer */ = {
 			isa = PBXLegacyTarget;
 			buildArgumentsString = "$(ACTION)";
-			buildConfigurationList = D2F053D6185E25710042153E /* Build configuration list for PBXLegacyTarget "bfgminer" */;
+			buildConfigurationList = D2F053D6185E25710042153E /* Build configuration list for PBXLegacyTarget "cgminer" */;
 			buildPhases = (
 			);
 			buildToolPath = /usr/bin/make;
 			buildWorkingDirectory = "$(PROJECT_DIR)/source";
 			dependencies = (
 			);
-			name = bfgminer;
+			name = cgminer;
 			passBuildSettingsInEnvironment = 0;
-			productName = bfgminer_target;
+			productName = cgminer_target;
 		};
 /* End PBXLegacyTarget section */
 
@@ -992,7 +992,7 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Nate Woolls";
 			};
-			buildConfigurationList = D2F053C2185E1B040042153E /* Build configuration list for PBXProject "bfgminer" */;
+			buildConfigurationList = D2F053C2185E1B040042153E /* Build configuration list for PBXProject "cgminer" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -1004,7 +1004,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D2F053D3185E25710042153E /* bfgminer */,
+				D2F053D3185E25710042153E /* cgminer */,
 			);
 		};
 /* End PBXProject section */
@@ -1103,7 +1103,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D2F053C2185E1B040042153E /* Build configuration list for PBXProject "bfgminer" */ = {
+		D2F053C2185E1B040042153E /* Build configuration list for PBXProject "cgminer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D2F053CE185E1B050042153E /* Debug */,
@@ -1112,7 +1112,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D2F053D6185E25710042153E /* Build configuration list for PBXLegacyTarget "bfgminer" */ = {
+		D2F053D6185E25710042153E /* Build configuration list for PBXLegacyTarget "cgminer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D2F053D4185E25710042153E /* Debug */,
