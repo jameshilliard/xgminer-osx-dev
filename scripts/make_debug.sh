@@ -1,5 +1,5 @@
 cd ../source
-./autogen.sh
+autoreconf -i
 cd ../scripts
 ./configure_debug.sh
 cd ../source
