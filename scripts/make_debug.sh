@@ -1,5 +1,5 @@
 cd ../source
-autoreconf -i
+autoreconf -fvi
 cd ../scripts
 ./configure_debug.sh
 cd ../source
