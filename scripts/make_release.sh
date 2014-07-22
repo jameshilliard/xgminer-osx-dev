@@ -3,4 +3,4 @@ cd ../source
 cd ../scripts
 ./configure_release.sh
 cd ../source
-make && make install
+make clean && make && make install
